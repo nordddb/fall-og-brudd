@@ -157,9 +157,6 @@ section{
 	margin-bottom: 20px;
 }
 
-.c1, .c2, .c3, .c4, .c5, .c6, .c7, .c8, .c9, .c10, .c11, c12{
-	
-}
 .c1{
 	width: calc((100% / 12)*1);
 }
@@ -344,7 +341,6 @@ section{
 	height: 20px;
 }
 
-
 @media only screen and (max-width: 800px) {
 	.noMobile{
 		display: none;
@@ -384,7 +380,7 @@ section{
 		font-size: 70px;
 		font-weight: 700;
 	}
-	.c1, .c2, .c3, .c4, .c5, .c6, .c7, .c8, .c9, .c10, .c11, c12, .exerciseImage, .exerciseText, .contentContainer{
+	.c1, .c2, .c3, .c4, .c5, .c6, .c7, .c8, .c9, .c10, .c11, .c12, .exerciseImage, .exerciseText, .contentContainer{
 		width: 100%;
 	}
 	.innerContainer{
